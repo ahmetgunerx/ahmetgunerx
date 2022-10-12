@@ -1,4 +1,3 @@
-# 💫 About Me:
 Ege Üniversitesi - Matematik
 
 
