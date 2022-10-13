@@ -8,7 +8,7 @@ Ege University - Mathematics
 ![](https://github-readme-stats.vercel.app/api?username=ahmetgunerx&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmetgunerx&theme=nightowl&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetgunerx&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetgunerx&hide=javascript,css,scss,html&theme=nightowl)
 
 
 ---
