@@ -11,6 +11,8 @@ Ege University - Mathematics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetgunerx)](https://github.com/anuraghazra/github-readme-stats)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetgunerx&hide=javascript,css,scss,html&theme=tokyonight)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmetgunerx&icon=0&color=6)](https://visitcount.itsvg.in)
