@@ -9,6 +9,8 @@ Ege University - Mathematics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmetgunerx&theme=nightowl&hide_border=false)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetgunerx&hide=javascript,css,scss,html&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmegunerx&theme=nightowl)
+
 
 
 ---
