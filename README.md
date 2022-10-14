@@ -10,7 +10,7 @@ Ege University - Mathematics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetgunerx&hide=javascript,css,scss,html&theme=nightowl)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmetgunerx&orgs=acme,evilcorp,fsociety)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ahmetgunerx&orgs=acme,evilcorp,fsociety)
 
 
 
